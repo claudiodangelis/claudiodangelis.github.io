@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Dart, Web UI + js libraries, Google+ API
 lang: en
 category: dart

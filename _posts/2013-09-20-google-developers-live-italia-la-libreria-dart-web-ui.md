@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Google Developers Live Italia&#58; la libreria Dart Web UI
 lang: it
 category: dart

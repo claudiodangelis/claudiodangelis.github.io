@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: GDG MeetsU - Google Developer Group all'Aquila
 lang: it
 category: dart

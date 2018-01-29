@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Blogging with Jekyll using Git, Github and Amazon AWS
 lang: en
 category: web

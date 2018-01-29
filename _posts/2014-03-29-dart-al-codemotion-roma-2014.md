@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Dart al Codemotion Roma 2014
 lang: it
 category: dart

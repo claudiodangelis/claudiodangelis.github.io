@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: GDL Italia - Introduzione a Dart&#58; editor e codice di esempio
 lang: it
 category: dart

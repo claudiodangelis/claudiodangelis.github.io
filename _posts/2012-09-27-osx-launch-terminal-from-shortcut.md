@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Mac OS X&#58; Launch Terminal from keyboard shortcut
 lang: en
 category: osx

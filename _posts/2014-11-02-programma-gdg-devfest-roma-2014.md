@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: GDG DevFest Roma 2014
 lang: it
 category: events

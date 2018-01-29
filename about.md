@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about
 ---
 
 Hi, my name is Claudio d'Angelis and this is my website, I'm a freelance developer and IT consultant based in Italy.

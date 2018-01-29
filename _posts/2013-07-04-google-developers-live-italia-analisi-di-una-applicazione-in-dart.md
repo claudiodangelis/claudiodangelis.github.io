@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Google Developers Live Italia&#58; Analisi di una applicazione in Dart
 lang: it
 category: dart

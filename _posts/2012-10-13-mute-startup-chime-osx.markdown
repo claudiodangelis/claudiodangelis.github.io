@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Mute the Mac OS X startup sound, the fastest way
 lang: en
 category: osx

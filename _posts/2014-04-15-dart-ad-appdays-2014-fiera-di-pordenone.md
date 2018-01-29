@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Dart ad AppDays 2014, Fiera di Pordenone
 lang: it
 category: dart

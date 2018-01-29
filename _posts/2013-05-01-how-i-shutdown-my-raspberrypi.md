@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: How I shutdown my Raspberry Pi
 lang: en
 category: linux
