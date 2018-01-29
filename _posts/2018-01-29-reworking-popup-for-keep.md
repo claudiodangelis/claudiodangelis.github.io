@@ -15,7 +15,7 @@ Although it was initially developed to satisfy my own silly whim, it quickly rea
 
 However, given that it wasn't intended to be adopted by more than 1 user (me), and given the need to fix bugs and add features as the userbase grows, the current code is getting quite a mess, and it definitely needs some refactoring.
 
-The initial version (the current one on the Chrome Web Store) is just a bunch of JavaScript functions, but I'm fixing this. I'm writing the next version with Angular 5 in its TypeScript flavor.
+The initial version (the current one on the [Chrome Web Store](https://chrome.google.com/webstore/detail/popup-for-keep/fhcmhglnohogibbbpbodmjeggpdlboop)) is just a bunch of JavaScript functions, but I'm fixing this. I'm writing the next version with [Angular 5](angular.io) in its [TypeScript](https://www.typescriptlang.org) flavor.
 
 
 What has been refactored so far:
