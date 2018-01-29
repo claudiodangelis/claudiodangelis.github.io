@@ -16,18 +16,18 @@
 title: Claudio d'Angelis Blog
 email: claudiodangelis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog of Claudio d'Angelis.
-baseurl: "" # the subpath of your site, e.g. /blog
+  IT Consultant.<br/>
+  Ad Tech, Unix, Progressive Rock.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: daw985
 github_username:  claudiodangelis
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-paginate
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -39,3 +39,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+paginate: 5
+paginate_path: "/page:num"
+excerpt_separator: <!--more-->

@@ -11,6 +11,7 @@ category: events
 
 Sabato **8 Novembre** 2014 il [+GDG Roma L-Ab](https://plus.google.com/communities/115263653461939871399) presenterà la *DevFest*, evento ad ingresso gratuito dedicato  agli sviluppatori ricco di presentazioni e workshop sulle nuove tecnologie made in Google. Gli argomenti di quest' anno sono tantissimi e spaziano da **Android Lollipop** ad **Android Wear**, da **Go** a **Dart**, da **Angular JS** a **Polymer**, da **Chromecast** ad **Android TV**, da **BigQuery** a **Cloud Platform** e un sacco di altre cose interessantissime!
 
+<!--more-->
 
 Programma:
 

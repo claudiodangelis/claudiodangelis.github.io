@@ -1,0 +1,46 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+---
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <h1>{{ post.title }}</h1>
+    <p><em><small>Published {{ post.date | date: "%B %d, %Y" }} </small></em></p>
+{{ post.excerpt }}
+    <p><a href="{{ post.url }}"><span class="glyphicon glyphicon-log-in"></span>&nbsp; Read more</a></p>
+</div>
+{% endfor %}
+
+        {% if paginator.page != 1 %}
+            {% if paginator.previous_page == 1 %}
+            <span><a href="/">&laquo; prev</a></span>
+            {% else %}
+            <span><a href="/page{{ paginator.previous_page }}">&laquo; prev</a></span>
+            {%  endif%}
+        {% else %}
+        <span class="disabled"><a>&laquo; prev</a></span>
+        {% endif %}
+
+        {% if paginator.page == 1 %}
+        <span class="active"><a href="/">1</a></span>
+        {% else %}
+        <span><a href="/">1</a></span>
+        {% endif %}
+
+
+        {% for count in (2..paginator.total_pages) %}
+            {% if count == paginator.page %}
+            <span class="active"><a href="/page{{count}}">{{ count }}</a></span>
+            {% else %}
+            <span><a href="/page{{count}}">{{ count }}</a></span>
+            {% endif %}
+        {% endfor %}
+
+        {% if paginator.page == paginator.total_pages %}
+        <span class="disabled"><a>next &raquo;</a></span>
+        {% else %}
+        <span><a href="/page{{ paginator.next_page }}">next &raquo;</a></span>
+        {% endif %}
+

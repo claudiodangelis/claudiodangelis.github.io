@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Hi, my name is Claudio d'Angelis and this is my website, I'm a freelance developer and IT consultant based in Italy.
@@ -20,7 +19,7 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 
 **2018**
 
-- started working on the Banco project
+- Started working on the Banco project
 
 **2017**
 - Focused 100% on my day job

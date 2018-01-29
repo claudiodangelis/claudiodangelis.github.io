@@ -9,6 +9,8 @@ tags: [dart, dartlang, dartlang italia, web ui]
 È online un nuovo episodio per Google Developers Live Italia, argomenti trattati: `web_ui.dart`, libreria che ci consente di utilizzare Model-driven Views (MDV) e Web Components in Dart. Il codice
 proposto è disponibile sull'account [gdl-italia su github](https://github.com/gdl-italia/dart-mdv-webcomponents-gdl).
 
+<!--more-->
+
 Un esempio di **MDV**:
 
 <div class="row">
