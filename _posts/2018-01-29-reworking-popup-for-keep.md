@@ -9,6 +9,8 @@ It's been more than 3 years now since I open sourced [Popup For Keep](https://ch
 
 ![Screenshot Of Popup For Keep](/assets/img/posts/popupforkeep.jpg)
 
+<!--more-->
+
 Although it was initially developed to satisfy my own silly whim, it quickly reached **more than 13000 installs** and the number keeps growing, and the number of feature requests I receive from users keeps growing as well.
 
 However, given that it wasn't intended to be adopted by more than 1 user (me), and given the need to fix bugs and add features as the userbase grows, the current code is getting quite a mess, and it definitely needs some refactoring.
