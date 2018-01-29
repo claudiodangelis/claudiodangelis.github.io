@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>A Dart client library for Diffbot APIs | Claudio d’Angelis Blog</title>
+<meta name="generator" content="Jekyll v3.7.2" />
+<meta property="og:title" content="A Dart client library for Diffbot APIs" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="I wrote a Dart client library for Diffbot, which is a visual learning robot that identifies and extracts the important parts of any web page. In the case of an article, Diffbot returns title, author, images, tags, etc." />
+<meta property="og:description" content="I wrote a Dart client library for Diffbot, which is a visual learning robot that identifies and extracts the important parts of any web page. In the case of an article, Diffbot returns title, author, images, tags, etc." />
+<link rel="canonical" href="http://localhost:4000/dart/2013/10/14/a-dart-client-library-for-diffbot-apis.html" />
+<meta property="og:url" content="http://localhost:4000/dart/2013/10/14/a-dart-client-library-for-diffbot-apis.html" />
+<meta property="og:site_name" content="Claudio d’Angelis Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2013-10-14T00:00:00+02:00" />
+<script type="application/ld+json">
+{"dateModified":"2013-10-14T00:00:00+02:00","datePublished":"2013-10-14T00:00:00+02:00","@type":"BlogPosting","headline":"A Dart client library for Diffbot APIs","url":"http://localhost:4000/dart/2013/10/14/a-dart-client-library-for-diffbot-apis.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/dart/2013/10/14/a-dart-client-library-for-diffbot-apis.html"},"description":"I wrote a Dart client library for Diffbot, which is a visual learning robot that identifies and extracts the important parts of any web page. In the case of an article, Diffbot returns title, author, images, tags, etc.","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Claudio d&#39;Angelis Blog" href="/feed.xml">
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    <a class="site-title" rel="author" href="/">Claudio d&#39;Angelis Blog</a>
+
+    
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          
+            
+            
+          
+            
+            
+            <a class="page-link" href="/about/">About</a>
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+        </div>
+      </nav>
+    
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <p>I wrote a Dart client library for <a href="http://diffbot.com">Diffbot</a>, which is <em>a visual learning robot that identifies and extracts the important parts of any web page</em>. In the case of an article, Diffbot returns title, author, images, tags, etc.</p>
+
+<p>This library can be used both in the browser that in the console, and can talk to three of the <a href="http://diffbot.com/products/automatic/">main APIs</a>:</p>
+
+<ul>
+  <li>
+    <p><strong>Article API</strong>, used to extract clean article text from news article web pages</p>
+  </li>
+  <li>
+    <p><strong>Frontpage API</strong>, it takes in a multifaceted “homepage” and returns individual page elements.</p>
+  </li>
+  <li>
+    <p><strong>Product API</strong>, it analyzes a shopping or e-commerce product page and returns information on the product.</p>
+  </li>
+</ul>
+
+<!--more-->
+
+<h2 id="installing">Installing</h2>
+
+<p>Add <code class="highlighter-rouge">diffbot: any</code> to your app’s <a href="http://pub.dartlang.org/doc/pubspec.html">pubspec file</a>, then run <code class="highlighter-rouge">pub install</code>.</p>
+
+<p>To use it in a web app:</p>
+
+<figure class="highlight"><pre><code class="language-dart" data-lang="dart"><span class="kn">import</span> <span class="s">'package:diffbot/diffbot_browser.dart'</span><span class="o">;</span></code></pre></figure>
+
+<p>To use it in a command-line app:</p>
+
+<figure class="highlight"><pre><code class="language-dart" data-lang="dart"><span class="kn">import</span> <span class="s">'package:diffbot/diffbot_console.dart'</span><span class="o">;</span></code></pre></figure>
+
+<h2 id="usage">Usage</h2>
+
+<p>First of all, you have to create a new <strong>Client</strong> instance, which takes a diffbot token as an argument, you can grab a token at <a href="http://diffbot.com/pricing/">diffbot.com/pricing</a>, they also offer a free developer token for non-commercial use.</p>
+
+<figure class="highlight"><pre><code class="language-dart" data-lang="dart"><span class="kd">var</span> <span class="n">client</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Client</span><span class="o">(</span><span class="s">'YOUR_TOKEN'</span><span class="o">);</span></code></pre></figure>
+
+<p>Now you’re ready to use on of client’s methods, such as <code class="highlighter-rouge">getArticle()</code>, <code class="highlighter-rouge">getFrontpage()</code> or <code class="highlighter-rouge">getProduct()</code>.</p>
+
+<p>Those methods return a <a href="https://www.dartlang.org/articles/using-future-based-apis/">Future</a>, let’s say you want to get important parts of an article, your code will be like this:</p>
+
+<figure class="highlight"><pre><code class="language-dart" data-lang="dart"><span class="n">client</span><span class="o">.</span><span class="na">getArticle</span><span class="o">(</span><span class="s">'ARTICLE_URL'</span><span class="o">,</span> <span class="n">options</span><span class="o">).</span><span class="na">then</span><span class="o">((</span><span class="n">Article</span> <span class="n">article</span><span class="o">)</span> <span class="o">{</span>
+  <span class="n">print</span><span class="o">(</span><span class="n">article</span><span class="o">.</span><span class="na">title</span><span class="o">);</span> <span class="c1">// prints the title</span>
+  <span class="n">print</span><span class="o">(</span><span class="n">article</span><span class="o">.</span><span class="na">author</span><span class="o">);</span> <span class="c1">//prints the author</span>
+  <span class="c1">// and so on</span>
+<span class="o">});</span></code></pre></figure>
+
+<h2 id="live-demo">Live demo</h2>
+
+<p>Here are three live examples, one for each API:</p>
+
+<ul>
+  <li>
+    <p><a href="/demo/diffbot/article.html">Article API demo</a></p>
+
+    <p>This will show <strong>Title</strong>, <strong>Author</strong>, <strong>Date</strong> and of course <strong>Content</strong> for three articles; you can also submit your own article.</p>
+  </li>
+  <li>
+    <p><a href="/demo/diffbot/frontpage.html">Frontpage API demo</a></p>
+
+    <p>Shows the Hacker News frontpage.</p>
+  </li>
+  <li>
+    <p><a href="/demo/diffbot/product.html">Product API demo</a></p>
+
+    <p>Shows <strong>Title</strong>, <strong>Price</strong> and images for three products; you can also submit your own product.</p>
+  </li>
+</ul>
+
+<p>You can find more examples in the <code class="highlighter-rouge">example</code> directory of the <a href="/~/diffbot">github repository</a>.</p>
+
+<h2 id="source-code-documentation-and-bug-reporting">Source code, documentation and bug reporting</h2>
+
+<p>Source code: <a href="/~/diffbot">github.com/claudiodangelis/diffbot</a>.<br />
+Official Diffbot APIs documentation: <a href="http://diffbot.com/products/automatic/">diffbot.com/products</a>.<br />
+Library documentation: <a href="/docs/diffbot">claudiodangelis.com/docs/diffbot</a>.<br />
+To file a bug please open a new <a href="/~/diffbot/issues">issue on github</a>.</p>
+
+<p>Needless to say that contributions and feedbacks are always welcome :)</p>
+
+      </div>
+    </main>
+
+    <footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Claudio d&#39;Angelis Blog</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            
+              Claudio d&#39;Angelis Blog
+            
+            </li>
+            
+            <li><a class="u-email" href="mailto:claudiodangelis@gmail.com">claudiodangelis@gmail.com</a></li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+  
+  
+  
+  <li><a href="https://github.com/claudiodangelis"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">claudiodangelis</span></a></li>
+  
+  
+  
+  <li><a href="https://www.twitter.com/daw985"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">daw985</span></a></li>
+  
+  
+  
+</ul>
+
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Personal blog of Claudio d&#39;Angelis.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

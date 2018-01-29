@@ -1,13 +1,611 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-29T11:28:10+01:00</updated><id>http://localhost:4000/</id><title type="html">Claudio d’Angelis Blog</title><subtitle>Personal blog of Claudio d'Angelis.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/01/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-01-29T11:03:30+01:00</published><updated>2018-01-29T11:03:30+01:00</updated><id>http://localhost:4000/jekyll/update/2018/01/29/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/01/29/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-29T11:48:43+01:00</updated><id>http://localhost:4000/</id><title type="html">Claudio d’Angelis Blog</title><subtitle>Personal blog of Claudio d'Angelis.</subtitle><entry xml:lang="it"><title type="html">GDG DevFest Roma 2014</title><link href="http://localhost:4000/events/2014/11/02/programma-gdg-devfest-roma-2014.html" rel="alternate" type="text/html" title="GDG DevFest Roma 2014" /><published>2014-11-02T00:00:00+01:00</published><updated>2014-11-02T00:00:00+01:00</updated><id>http://localhost:4000/events/2014/11/02/programma-gdg-devfest-roma-2014</id><content type="html" xml:base="http://localhost:4000/events/2014/11/02/programma-gdg-devfest-roma-2014.html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Not from Rome? Find a &lt;a href=&quot;http://devfest.gdg.events&quot;&gt;GDG DevFest near you!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/devfest2014.png&quot; alt=&quot;DevFest&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Sabato &lt;strong&gt;8 Novembre&lt;/strong&gt; 2014 il &lt;a href=&quot;https://plus.google.com/communities/115263653461939871399&quot;&gt;+GDG Roma L-Ab&lt;/a&gt; presenterà la &lt;em&gt;DevFest&lt;/em&gt;, evento ad ingresso gratuito dedicato  agli sviluppatori ricco di presentazioni e workshop sulle nuove tecnologie made in Google. Gli argomenti di quest’ anno sono tantissimi e spaziano da &lt;strong&gt;Android Lollipop&lt;/strong&gt; ad &lt;strong&gt;Android Wear&lt;/strong&gt;, da &lt;strong&gt;Go&lt;/strong&gt; a &lt;strong&gt;Dart&lt;/strong&gt;, da &lt;strong&gt;Angular JS&lt;/strong&gt; a &lt;strong&gt;Polymer&lt;/strong&gt;, da &lt;strong&gt;Chromecast&lt;/strong&gt; ad &lt;strong&gt;Android TV&lt;/strong&gt;, da &lt;strong&gt;BigQuery&lt;/strong&gt; a &lt;strong&gt;Cloud Platform&lt;/strong&gt; e un sacco di altre cose interessantissime!&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Programma:&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;Alessandro Mancini: &lt;em&gt;An Introduction to Go&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Fabio Ranieri, Manuel Mauro: &lt;em&gt;Android Lollipop&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Matteo Bonifazi, Alessandro Martellucci: &lt;em&gt;Chromecast + Android TV&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Camelia Boban, Simone Pulcini: &lt;em&gt;Cloud Cult Platform: Roma non è mai stata così “Esposta”!&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Antonella Blasetti: &lt;em&gt;Google BigQuery in Action&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Vittorio Conte: &lt;em&gt;Introduzione ad AngularJS&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Giovanni Laquidara, Claudio d’Angelis: &lt;em&gt;Join the Dart side of Web Development&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Massimo Brignoli: &lt;em&gt;MongoDB&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Antonino Orlando, Giuseppe Cerratti: &lt;em&gt;No more packet watches (Android Wear)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Vincenzo Favara: &lt;em&gt;SpaceInvaders (Unity3D)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Daniele Vannella, Roberto Navigli: -Verso il Web 3.0 con BabelNet e Babelfy_&lt;/li&gt;
+  &lt;li&gt;Alessandro Panizzi: &lt;em&gt;Workshop sui Sismologi fai da te…&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Per quanto riguarda Dart, &lt;a href=&quot;https://plus.google.com/+giovannilaquidara&quot;&gt;+Giovanni&lt;/a&gt; ed io dopo il talk terremo un workshop durante il quale svilupperemo una web app utilizzando Dart e Polymer e impiegando il &lt;em&gt;Material Design&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;L’evento si terrà a Roma, &lt;strong&gt;Sabato 8 Novembre dalle 9:30 alle 17:30&lt;/strong&gt; presso il Dipartimento di Ingegneria dell’Università degli Studi di &lt;strong&gt;Roma Tre&lt;/strong&gt; (entrata principale in Via Della Vasca Navale 79, entrata secondaria in Via Vito Volterra 48).&lt;/p&gt;
+
+&lt;p&gt;Sul &lt;a href=&quot;http://roma.gdg.io/devfest.html&quot;&gt;sito dell’evento&lt;/a&gt; trovate maggiori dettagli su ogni intervento.&lt;/p&gt;
+
+&lt;p&gt;Info utili:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Registrazione su &lt;a href=&quot;http://www.eventbrite.it/e/biglietti-google-devfest-roma-2014-13743752935&quot;&gt;eventbrite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sito del &lt;a href=&quot;http://roma.gdg.io&quot;&gt;GDG Roma L-Ab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Google+ Community del &lt;a href=&quot;https://plus.google.com/communities/115263653461939871399&quot;&gt;GDG Roma L-Ab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ci vediamo là ;)&lt;/p&gt;</content><author><name></name></author><category term="events" /><summary type="html">Not from Rome? Find a GDG DevFest near you!</summary></entry><entry xml:lang="it"><title type="html">GDG MeetsU - Google Developer Group all’Aquila</title><link href="http://localhost:4000/dart/2014/05/17/gdg-meetsu-google-developer-group-allaquila.html" rel="alternate" type="text/html" title="GDG MeetsU - Google Developer Group all'Aquila" /><published>2014-05-17T00:00:00+02:00</published><updated>2014-05-17T00:00:00+02:00</updated><id>http://localhost:4000/dart/2014/05/17/gdg-meetsu---google-developer-group-allaquila</id><content type="html" xml:base="http://localhost:4000/dart/2014/05/17/gdg-meetsu-google-developer-group-allaquila.html">&lt;p&gt;&lt;img src=&quot;/assets/img/posts/gdgmeetsu.png&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Il &lt;strong&gt;30 Maggio 2014&lt;/strong&gt; si terrà presso &lt;strong&gt;l’Università degli Studi dell’Aquila&lt;/strong&gt; il &lt;a href=&quot;https://plus.google.com/u/0/communities/115675971195472891244&quot;&gt;GDG MeetsU&lt;/a&gt;, evento ad ingresso gratuito organizzato dal &lt;a href=&quot;https://plus.google.com/110676501469531199993/posts&quot;&gt;+GDG Roma L-Ab&lt;/a&gt; ricco di talk, codelab, contest e molto altro su Android, AngularJS, Big Data, Chrome App, Dart, GCM, Machine Learning, Sicurezza e Wearable Computing.&lt;/p&gt;
+
+&lt;p&gt;Come al solito, &lt;a href=&quot;https://plus.google.com/+GiovanniLaquidara&quot;&gt;+Giovanni Laquidara&lt;/a&gt; ed io terremo un intervento di circa un’ora e mezza su &lt;strong&gt;Dart&lt;/strong&gt; durante il quale vedremo una panoramica del linguaggio e ci sporcheremo le mani con un po’ di codice :-)&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Luogo: &lt;a href=&quot;http://www.univaq.it/&quot;&gt;Università degli Studi dell’Aquila&lt;/a&gt;, edificio &lt;strong&gt;Alan Turing&lt;/strong&gt; (Blocco 0), &lt;a href=&quot;https://www.google.it/maps/place/Via+Giovanni+di+Vincenzo/@42.3568266,13.3824065,17z/data=!3m1!4b1!4m2!3m1!1s0x132fd2f311a8c1b5:0x659843b7518596f2&quot;&gt;via Giovanni di Vincenzo 16/B&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Link utili:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Info e registrazione su Eventbrite&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Community dedicata su Google+: &lt;a href=&quot;https://plus.google.com/u/0/communities/115675971195472891244&quot;&gt;+GDG MeetsU&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pagina Google+ del &lt;a href=&quot;https://plus.google.com/110676501469531199993/posts&quot;&gt;+GDG Roma L-Ab&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vi aspetto!&lt;/p&gt;</content><author><name></name></author><category term="dart" /><category term="dart" /><category term="dartlang" /><category term="events" /><summary type="html"></summary></entry><entry xml:lang="it"><title type="html">Dart ad AppDays 2014, Fiera di Pordenone</title><link href="http://localhost:4000/dart/2014/04/15/dart-ad-appdays-2014-fiera-di-pordenone.html" rel="alternate" type="text/html" title="Dart ad AppDays 2014, Fiera di Pordenone" /><published>2014-04-15T00:00:00+02:00</published><updated>2014-04-15T00:00:00+02:00</updated><id>http://localhost:4000/dart/2014/04/15/dart-ad-appdays-2014-fiera-di-pordenone</id><content type="html" xml:base="http://localhost:4000/dart/2014/04/15/dart-ad-appdays-2014-fiera-di-pordenone.html">&lt;p&gt;&lt;img src=&quot;/assets/img/posts/appdays2014.png&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dal 25 al 27 Aprile 2014 a Pordenone si terrà la &lt;a href=&quot;http://www.radioamatorepordenone.it/&quot;&gt;Fiera del Radioamatore&lt;/a&gt;, la &lt;em&gt;più importante fiera italiana dell’elettronica, radiantistica e informatica low-cost&lt;/em&gt;. Quest’anno sarà allestita una nuova area, &lt;a href=&quot;http://www.radioamatorepordenone.it/2014/appdays2014/il-programma-degli-eventi-di-gdg-hacklabudine-allappdays-2014/&quot;&gt;AppDays&lt;/a&gt;, presso la quale si svolgeranno talk, codelab e workshop su sviluppo mobile, open source software e molto altro. Gli eventi saranno tantissimi,parteciperanno diverse community: &lt;a href=&quot;https://plus.google.com/108234097192616821410/posts&quot;&gt;+GDG Udine&lt;/a&gt;, &lt;a href=&quot;https://plus.google.com/100029768638367982742/posts&quot;&gt;+GDG Perugia&lt;/a&gt;, &lt;a href=&quot;https://plus.google.com/+GdgfirenzeInfo-page/posts&quot;&gt;+GDG Firenze&lt;/a&gt;, &lt;a href=&quot;https://plus.google.com/+ubuntuit/posts&quot;&gt;+Ubuntu-it&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/pnlug&quot;&gt;Pordenone LUG&lt;/a&gt; e molte altre. Ci sarà anche &lt;a href=&quot;https://plus.google.com/+DanieleScasciafratteMte90Net/posts&quot;&gt;+Daniele Scasciafratte&lt;/a&gt;, Firefox OS Training Lead per &lt;a href=&quot;http://www.mozillaitalia.org/home/&quot;&gt;Mozilla Italia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ci sarò anch’io con un talk ed un codelab su &lt;strong&gt;Dart&lt;/strong&gt; e &lt;strong&gt;Firefox OS&lt;/strong&gt;, abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Talk&lt;/strong&gt;: &lt;em&gt;Web App Engineering con Dart&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Durata: 40 minuti&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;Un linguaggio intuitivo e familiare ed un vasto insieme di librerie e strumenti di sviluppo: questo è Dart, la nuova piattaforma “batteries included” sviluppata in Google orientata allo sviluppo di applicazioni HTML5 scalabili e compatibili con i maggiori browser moderni, desktop e mobile. Durante il talk saranno introdotte le principali caratteristiche del linguaggio e degli strumenti di sviluppo che saranno successivamente approfondite durante il codelab.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Codelab&lt;/strong&gt;: &lt;em&gt;Realizzare una Open Web App per Firefox OS con Dart&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Durata: 120 minuti&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;Come complemento del talk “Web App Engineering con Dart”, realizzeremo da zero una web app per Firefox OS con Dart utilizzando gli strumenti di sviluppo con cui viene distribuito e vedremo come effettuare il deploy su un dispositivo fisico.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I posti per i codelab sono limitati, qui c’è il link per la &lt;a href=&quot;https://docs.google.com/forms/d/1LHuixy59I3S9VA1PVjmjsMkyLDszcxlnht_E2AMlsDI/viewform&quot;&gt;prenotazione&lt;/a&gt; mentre qui c’è il &lt;a href=&quot;https://docs.google.com/file/d/0Bz2gtYAx46W-S1lIQXhWZHBfaUE/edit&quot;&gt;programma completo&lt;/a&gt; e l’&lt;a href=&quot;https://plus.google.com/events/c9g0ainnfp20jqvv7fit5sd2vh4&quot;&gt;evento su Google+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vi aspetto!&lt;/p&gt;</content><author><name></name></author><category term="dart" /><category term="dart" /><category term="dartlang" /><category term="events" /><summary type="html"></summary></entry><entry xml:lang="it"><title type="html">Dart al Codemotion Roma 2014</title><link href="http://localhost:4000/dart/2014/03/29/dart-al-codemotion-roma-2014.html" rel="alternate" type="text/html" title="Dart al Codemotion Roma 2014" /><published>2014-03-29T00:00:00+01:00</published><updated>2014-03-29T00:00:00+01:00</updated><id>http://localhost:4000/dart/2014/03/29/dart-al-codemotion-roma-2014</id><content type="html" xml:base="http://localhost:4000/dart/2014/03/29/dart-al-codemotion-roma-2014.html">&lt;p&gt;&lt;img src=&quot;/assets/img/posts/codemotion_2014_logo.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Quest’anno sarò al &lt;a href=&quot;http://rome.codemotionworld.com/2014/&quot;&gt;Codemotion Roma&lt;/a&gt; come speaker insieme a &lt;a href=&quot;https://plus.google.com/+GiovanniLaquidara&quot;&gt;+Giovanni Laquidara&lt;/a&gt;, terremo un talk su &lt;a href=&quot;https://dartlang.org&quot;&gt;Dart&lt;/a&gt; durante il quale introdurremo il linguaggio, parleremo degli strumenti di sviluppo messi a disposizione e presenteremo un’app di esempio.
+&lt;!--more--&gt;
+Il titolo del talk è &lt;strong&gt;“Join the Dart Side of Web Development”&lt;/strong&gt;, si terrà il giorno 11 Aprile 2014 alle ore 14:00 e avrà durata di 40 minuti. Abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Un linguaggio intuitivo e familiare ed un vasto insieme di librerie e strumenti di sviluppo: questo è Dart, la nuova piattaforma “batteries included” orientata allo sviluppo di applicazioni HTML5 scalabili e compatibili con i maggiori browser moderni, desktop e mobile, sviluppata in Google. Al Codemotion 2014 vedremo una panoramica del linguaggio e svilupperemo insieme una web app di esempio per vedere più da vicino tutti i vantaggi di Dart rispetto alle piattaforme tradizionali.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Il Codemotion Roma, una conferenza internazionale dedicata alla tecnologia,  si svolgerà &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;recursion&amp;gt;&lt;/code&gt;a Roma&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;/recursion&amp;gt;&lt;/code&gt; dal 9 al 12 Aprile 2014 presso il Dipartimento di Ingegneria dell’Università degli Studi di Roma Tre (entrata principale in &lt;a href=&quot;https://www.google.com/maps/place/Via+della+Vasca+Navale,+79/@41.8554701,12.4684549,17z/data=!3m1!4b1!4m2!3m1!1s0x13258a93dee902b1:0x14fd2f964414ebde&quot;&gt;Via della Vasca Navale, 79&lt;/a&gt;, entrata secondaria in &lt;a href=&quot;https://www.google.com/maps/place/Via+Vito+Volterra,+48/@41.854584,12.4707972,17z/data=!3m1!4b1!4m2!3m1!1s0x13258a923e9bab51:0xbbb3f4049e3ee1af&quot;&gt;Via Vito Volterra, 48&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Vi aspetto!&lt;/p&gt;
+
+&lt;p&gt;Link utili:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rome.codemotionworld.com/2014/tickets/&quot;&gt;Biglietti&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rome.codemotionworld.com/2014/workshop/&quot;&gt;Workshop Schedule&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rome.codemotionworld.com/2014/conference/&quot;&gt;Conference Schedule&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rome.codemotionworld.com/2014/speakers/&quot;&gt;Speakers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rome.codemotionworld.com/2014/faq/&quot;&gt;FAQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Image credits: &lt;a href=&quot;http://rome.codemotionworld.com/2014/&quot;&gt;rome.codemotionworld.com&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name></name></author><category term="dart" /><category term="dart" /><category term="dartlang" /><category term="events" /><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">A Dart client library for Diffbot APIs</title><link href="http://localhost:4000/dart/2013/10/14/a-dart-client-library-for-diffbot-apis.html" rel="alternate" type="text/html" title="A Dart client library for Diffbot APIs" /><published>2013-10-14T00:00:00+02:00</published><updated>2013-10-14T00:00:00+02:00</updated><id>http://localhost:4000/dart/2013/10/14/a-dart-client-library-for-diffbot-apis</id><content type="html" xml:base="http://localhost:4000/dart/2013/10/14/a-dart-client-library-for-diffbot-apis.html">&lt;p&gt;I wrote a Dart client library for &lt;a href=&quot;http://diffbot.com&quot;&gt;Diffbot&lt;/a&gt;, which is &lt;em&gt;a visual learning robot that identifies and extracts the important parts of any web page&lt;/em&gt;. In the case of an article, Diffbot returns title, author, images, tags, etc.&lt;/p&gt;
+
+&lt;p&gt;This library can be used both in the browser that in the console, and can talk to three of the &lt;a href=&quot;http://diffbot.com/products/automatic/&quot;&gt;main APIs&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Article API&lt;/strong&gt;, used to extract clean article text from news article web pages&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Frontpage API&lt;/strong&gt;, it takes in a multifaceted “homepage” and returns individual page elements.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Product API&lt;/strong&gt;, it analyzes a shopping or e-commerce product page and returns information on the product.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;installing&quot;&gt;Installing&lt;/h2&gt;
+
+&lt;p&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;diffbot: any&lt;/code&gt; to your app’s &lt;a href=&quot;http://pub.dartlang.org/doc/pubspec.html&quot;&gt;pubspec file&lt;/a&gt;, then run &lt;code class=&quot;highlighter-rouge&quot;&gt;pub install&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;To use it in a web app:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-dart&quot; data-lang=&quot;dart&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'package:diffbot/diffbot_browser.dart'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;To use it in a command-line app:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-dart&quot; data-lang=&quot;dart&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'package:diffbot/diffbot_console.dart'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
+
+&lt;p&gt;First of all, you have to create a new &lt;strong&gt;Client&lt;/strong&gt; instance, which takes a diffbot token as an argument, you can grab a token at &lt;a href=&quot;http://diffbot.com/pricing/&quot;&gt;diffbot.com/pricing&lt;/a&gt;, they also offer a free developer token for non-commercial use.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-dart&quot; data-lang=&quot;dart&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;client&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Client&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'YOUR_TOKEN'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Now you’re ready to use on of client’s methods, such as &lt;code class=&quot;highlighter-rouge&quot;&gt;getArticle()&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;getFrontpage()&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;getProduct()&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Those methods return a &lt;a href=&quot;https://www.dartlang.org/articles/using-future-based-apis/&quot;&gt;Future&lt;/a&gt;, let’s say you want to get important parts of an article, your code will be like this:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-dart&quot; data-lang=&quot;dart&quot;&gt;&lt;span class=&quot;n&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getArticle&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'ARTICLE_URL'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Article&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;article&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;article&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// prints the title&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;article&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//prints the author&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// and so on&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;live-demo&quot;&gt;Live demo&lt;/h2&gt;
+
+&lt;p&gt;Here are three live examples, one for each API:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/demo/diffbot/article.html&quot;&gt;Article API demo&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;This will show &lt;strong&gt;Title&lt;/strong&gt;, &lt;strong&gt;Author&lt;/strong&gt;, &lt;strong&gt;Date&lt;/strong&gt; and of course &lt;strong&gt;Content&lt;/strong&gt; for three articles; you can also submit your own article.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/demo/diffbot/frontpage.html&quot;&gt;Frontpage API demo&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Shows the Hacker News frontpage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/demo/diffbot/product.html&quot;&gt;Product API demo&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Shows &lt;strong&gt;Title&lt;/strong&gt;, &lt;strong&gt;Price&lt;/strong&gt; and images for three products; you can also submit your own product.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can find more examples in the &lt;code class=&quot;highlighter-rouge&quot;&gt;example&lt;/code&gt; directory of the &lt;a href=&quot;/~/diffbot&quot;&gt;github repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;source-code-documentation-and-bug-reporting&quot;&gt;Source code, documentation and bug reporting&lt;/h2&gt;
+
+&lt;p&gt;Source code: &lt;a href=&quot;/~/diffbot&quot;&gt;github.com/claudiodangelis/diffbot&lt;/a&gt;.&lt;br /&gt;
+Official Diffbot APIs documentation: &lt;a href=&quot;http://diffbot.com/products/automatic/&quot;&gt;diffbot.com/products&lt;/a&gt;.&lt;br /&gt;
+Library documentation: &lt;a href=&quot;/docs/diffbot&quot;&gt;claudiodangelis.com/docs/diffbot&lt;/a&gt;.&lt;br /&gt;
+To file a bug please open a new &lt;a href=&quot;/~/diffbot/issues&quot;&gt;issue on github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Needless to say that contributions and feedbacks are always welcome :)&lt;/p&gt;</content><author><name></name></author><category term="dart" /><category term="dart" /><category term="dartlang" /><category term="diffbot" /><category term="libraries" /><summary type="html">I wrote a Dart client library for Diffbot, which is a visual learning robot that identifies and extracts the important parts of any web page. In the case of an article, Diffbot returns title, author, images, tags, etc.</summary></entry><entry xml:lang="it"><title type="html">Google Developers Live Italia: la libreria Dart Web UI</title><link href="http://localhost:4000/dart/2013/09/20/google-developers-live-italia-la-libreria-dart-web-ui.html" rel="alternate" type="text/html" title="Google Developers Live Italia&amp;#58; la libreria Dart Web UI" /><published>2013-09-20T00:00:00+02:00</published><updated>2013-09-20T00:00:00+02:00</updated><id>http://localhost:4000/dart/2013/09/20/google-developers-live-italia-la-libreria-dart-web-ui</id><content type="html" xml:base="http://localhost:4000/dart/2013/09/20/google-developers-live-italia-la-libreria-dart-web-ui.html">&lt;p&gt;È online un nuovo episodio per Google Developers Live Italia, argomenti trattati: &lt;code class=&quot;highlighter-rouge&quot;&gt;web_ui.dart&lt;/code&gt;, libreria che ci consente di utilizzare Model-driven Views (MDV) e Web Components in Dart. Il codice
+proposto è disponibile sull’account &lt;a href=&quot;https://github.com/gdl-italia/dart-mdv-webcomponents-gdl&quot;&gt;gdl-italia su github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Un esempio di &lt;strong&gt;MDV&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+    &lt;p&gt;&lt;b&gt;Input&lt;/b&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;{{ titolo }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello {{ soggetto }}!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;L: {{ soggetto.length }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-dart&quot; data-lang=&quot;dart&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// codice Dart&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;String&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;titolo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Esempio'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;String&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soggetto&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'world'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+    &lt;p&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Esempio&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello world!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;L: 5&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Un esempio di &lt;strong&gt;Web Components&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Input&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;social-button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;network=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;facebook&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;username=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;myusername&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/social-button&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;social-button&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;displayedname=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Developers Italia&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;network=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;google+&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;username=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;117196874771284793338&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/social-button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Output&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/socialbuttons.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Questo episodio fa parte del programma &lt;strong&gt;GDL Italia&lt;/strong&gt; che potete seguire sul blog ufficiale &lt;a href=&quot;http://developersitalia.blogspot.it/&quot;&gt;Developers Italia&lt;/a&gt; curato da &lt;a href=&quot;https://plus.google.com/+AlfredoMorresi/posts&quot;&gt;+Alfredo Morresi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/gwZIyugTHf4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="dart" /><category term="dart" /><category term="dartlang" /><category term="dartlang italia" /><category term="web ui" /><summary type="html">È online un nuovo episodio per Google Developers Live Italia, argomenti trattati: web_ui.dart, libreria che ci consente di utilizzare Model-driven Views (MDV) e Web Components in Dart. Il codice proposto è disponibile sull’account gdl-italia su github.</summary></entry><entry xml:lang="it"><title type="html">Google Developers Live Italia: Analisi di una applicazione in Dart</title><link href="http://localhost:4000/dart/2013/07/04/google-developers-live-italia-analisi-di-una-applicazione-in-dart.html" rel="alternate" type="text/html" title="Google Developers Live Italia&amp;#58; Analisi di una applicazione in Dart" /><published>2013-07-04T00:00:00+02:00</published><updated>2013-07-04T00:00:00+02:00</updated><id>http://localhost:4000/dart/2013/07/04/google-developers-live-italia-analisi-di-una-applicazione-in-dart</id><content type="html" xml:base="http://localhost:4000/dart/2013/07/04/google-developers-live-italia-analisi-di-una-applicazione-in-dart.html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Note for non-italian readers: while this video is in Italian, discussed application — a dart implementation of tic-tac-toe —
+is written and commented in English, you find the source code at &lt;a href=&quot;https://github.com/gdl-italia/dart_OXO&quot;&gt;github&lt;/a&gt;.
+There’s a little demo around minute &lt;a href=&quot;http://www.youtube.com/watch?v=LZXSZ1feQqc&amp;amp;t=4m20s&quot;&gt;4:20&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;È online il secondo episodio di Google Developers Live Italia dedicato a &lt;strong&gt;Dart&lt;/strong&gt;.&lt;br /&gt;
+In questo episodio mostro l’analisi di una web application completa, &lt;a href=&quot;https://github.com/gdl-italia/dart_OXO&quot;&gt;OXO&lt;/a&gt;,
+una implementazione in Dart del gioco del Tris, focalizzando l’attenzione sui
+seguenti argomenti:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Manipolazione del DOM&lt;/li&gt;
+  &lt;li&gt;Sviluppo di un server HTTP&lt;/li&gt;
+  &lt;li&gt;Interazione server-client attraverso il protocollo &lt;strong&gt;WebSocket&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trovate il codice sorgente sull’account di &lt;a href=&quot;https://github.com/gdl-italia/dart_OXO&quot;&gt;GDL Italia su GitHub&lt;/a&gt;,
+mentre qui trovate le &lt;a href=&quot;http://claudiodangelis.com/slides/gdl-italia-2&quot;&gt;slides utilizzate&lt;/a&gt; per la presentazione.&lt;/p&gt;
+
+&lt;p&gt;Questo episodio fa parte del programma &lt;strong&gt;GDL Italia&lt;/strong&gt; che potete seguire sul blog ufficiale &lt;a href=&quot;http://developersitalia.blogspot.it/&quot;&gt;Developers Italia&lt;/a&gt; curato da &lt;a href=&quot;https://plus.google.com/+AlfredoMorresi/posts&quot;&gt;+Alfredo Morresi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/LZXSZ1feQqc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;h4 id=&quot;oxos-screenshots&quot;&gt;OXO’s screenshots&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.github.com/claudiodangelis/dart_OXO/master/screenshot.png&quot; alt=&quot;Screenshots&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="dart" /><category term="dart" /><category term="dartlang" /><summary type="html">Note for non-italian readers: while this video is in Italian, discussed application — a dart implementation of tic-tac-toe — is written and commented in English, you find the source code at github. There’s a little demo around minute 4:20.</summary></entry><entry xml:lang="en"><title type="html">Openbox and dual-monitor setup: placing popup dialogs</title><link href="http://localhost:4000/linux/2013/06/23/openbox-and-dual-monitor-setup-placing-popup-dialogs.html" rel="alternate" type="text/html" title="Openbox and dual-monitor setup&amp;#58; placing popup dialogs" /><published>2013-06-23T00:00:00+02:00</published><updated>2013-06-23T00:00:00+02:00</updated><id>http://localhost:4000/linux/2013/06/23/openbox-and-dual-monitor-setup-placing-popup-dialogs</id><content type="html" xml:base="http://localhost:4000/linux/2013/06/23/openbox-and-dual-monitor-setup-placing-popup-dialogs.html">&lt;blockquote&gt;
+  &lt;p&gt;This post is primarly a note to self&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Apparently, accordingly to the Openbox’ default configuration, in a dual-monitor
+setup, the &lt;strong&gt;primary&lt;/strong&gt; monitor is the one on the left, and this leads to
+an annoying issue when you use as primary monitor the one on the right, as in my
+case: in fact, if the monitor on the left is off, you won’t be able to see
+dialogs popups, for instance the application switcher popup or the virtual desktop
+switcher.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;My problem was not being able to &lt;strong&gt;show&lt;/strong&gt; those dialogs on the &lt;strong&gt;proper monitor&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I googled a little bit…  nothing.&lt;br /&gt;
+I posted a thread on a forum… nothing.&lt;br /&gt;
+I &lt;strong&gt;RTFM&lt;/strong&gt;‘d… still nothing.&lt;/p&gt;
+
+&lt;p&gt;In the end, I found these lines in the OB’s configuration file, around the 20th line
+(&lt;code class=&quot;highlighter-rouge&quot;&gt;~/.config/openbox/rc.xml&lt;/code&gt;):&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-xml&quot; data-lang=&quot;xml&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;placement&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;policy&amp;gt;&lt;/span&gt;Smart&lt;span class=&quot;nt&quot;&gt;&amp;lt;/policy&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- 'Smart' or 'UnderMouse' --&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;yes&lt;span class=&quot;nt&quot;&gt;&amp;lt;/center&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- whether to place windows in the center of the free area found or
+     the top left corner --&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;monitor&amp;gt;&lt;/span&gt;Primary&lt;span class=&quot;nt&quot;&gt;&amp;lt;/monitor&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- with Smart placement on a multi-monitor system, try to place new windows
+     on: 'Any' - any monitor, 'Mouse' - where the mouse is, 'Active' - where
+     the active window is, 'Primary' - only on the primary monitor --&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;primaryMonitor&amp;gt;&lt;/span&gt;1&lt;span class=&quot;nt&quot;&gt;&amp;lt;/primaryMonitor&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- The monitor where Openbox should place popup dialogs such as the
+     focus cycling popup, or the desktop switch popup.  It can be an index
+     from 1, specifying a particular monitor.  Or it can be one of the
+     following: 'Mouse' - where the mouse is, or
+                'Active' - where the active window is --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/placement&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Bingo. Intuitively, to have dialogs showed on the monitor on the right you have
+to replace &lt;strong&gt;1&lt;/strong&gt; with &lt;strong&gt;2&lt;/strong&gt; in the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;primaryMonitor&amp;gt;&lt;/code&gt; tag. Choose &lt;strong&gt;Mouse&lt;/strong&gt; if you want
+dialogs following your mouse or (my ultimate choice) &lt;strong&gt;Active&lt;/strong&gt;, that shows dialogs
+on the monitor where the active window is.&lt;br /&gt;
+Brilliant.&lt;/p&gt;</content><author><name></name></author><category term="linux" /><category term="linux" /><category term="openbox" /><summary type="html">This post is primarly a note to self</summary></entry><entry xml:lang="en"><title type="html">Blogging with Jekyll using Git, Github and Amazon AWS</title><link href="http://localhost:4000/web/2013/06/21/blogging-with-jekyll-using-git-github-and-amazon-aws.html" rel="alternate" type="text/html" title="Blogging with Jekyll using Git, Github and Amazon AWS" /><published>2013-06-21T00:00:00+02:00</published><updated>2013-06-21T00:00:00+02:00</updated><id>http://localhost:4000/web/2013/06/21/blogging-with-jekyll-using-git-github-and-amazon-aws</id><content type="html" xml:base="http://localhost:4000/web/2013/06/21/blogging-with-jekyll-using-git-github-and-amazon-aws.html">&lt;p&gt;I’ve been using &lt;strong&gt;Jekyll&lt;/strong&gt; a lot lately, I’m totally in love with it, it’s a simple,
+fast and brilliant Ruby tool to generate static websites and blogs. Well,
+this post is not really about Jekyll &lt;em&gt;per se&lt;/em&gt;, it’s more likely about the way I use it inside my
+&lt;em&gt;ecosystem&lt;/em&gt;.&lt;br /&gt;
+If you want to learn more about Jekyll, I think the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;official website&lt;/a&gt;
+is a good place to start from.&lt;/p&gt;
+
+&lt;p&gt;Ok, let’s talk about the way I use Jekyll: I build my website locally, then I push
+changes with &lt;strong&gt;git&lt;/strong&gt; to my Amazon &lt;strong&gt;AWS&lt;/strong&gt; instance and at the same time I keep a copy
+of the blog sources on &lt;strong&gt;Github&lt;/strong&gt; available &lt;a href=&quot;http://claudiodangelis.com/~/claudiodangelis&quot;&gt;for consultation or forking&lt;/a&gt;.
+That’s it.&lt;/p&gt;
+
+&lt;p&gt;Just for completeness, Github itself has a great free hosting service for your site,
+&lt;a href=&quot;http://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, that supports static sites and Jekyll blogs as well, but I’m already a (happy) AWS user
+so I decided to host my site there instead of Github Pages.&lt;/p&gt;
+
+&lt;p&gt;So this is the scenario, now let’s take a look at the workflow: I push changes
+both to AWS and Github, then a &lt;em&gt;post-receive&lt;/em&gt;
+&lt;a href=&quot;http://git-scm.com/book/en/Customizing-Git-Git-Hooks&quot;&gt;hook script&lt;/a&gt; on the server
+builds and publishes the Jekyll blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/jekyll-aws.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to obtain such workflow, we have to:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create a bare repository on the server&lt;/li&gt;
+  &lt;li&gt;Add a hook script to the bare repository&lt;/li&gt;
+  &lt;li&gt;Clone the repository locally&lt;/li&gt;
+  &lt;li&gt;Create a github repository&lt;/li&gt;
+  &lt;li&gt;Add github origin to the local repository&lt;/li&gt;
+  &lt;li&gt;Configure local repository in order to push changes to both AWS and github repositories&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Assumptions and conventions used for this tutorial:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You need to &lt;a href=&quot;http://git-scm.com/book/en/Getting-Started-Installing-Githttp://git-scm.com/book/en/Getting-Started-Installing-Git&quot;&gt;have git&lt;/a&gt;
+and &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;have jekyll&lt;/a&gt; installed on your AWS instance.&lt;/p&gt;
+
+&lt;p&gt;We will use the following values, please change them accordingly to your actual/desired configuration:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;AWS instance’s user&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;ec2-user&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;AWS’s key pair’s path&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;~/Documents/ec2-user.pem&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Website domain&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;http://mysite.com&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Blog repository’s name&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;mysite&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Remote git bare repository&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;/home/ec2-user/mysite.git&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Remote git non-bare repository&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;/home/ec2-user/mysite&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Both remote and local document root&lt;/em&gt;    &lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;/var/www/html&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Local repository&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;~/workspace/mysite&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Source files of jekyll blog are in a &lt;code class=&quot;highlighter-rouge&quot;&gt;src&lt;/code&gt; directory of the repository
+(you may want to keep a README, LICENSE or something outside the sources of your blog)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    mysite/
+      .git/
+      README
+      LICENSE
+      src/_config.yml
+      src/_layouts
+      src/...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Now we’re ready to get started , yay!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Connect to the AWS instance and create a bare repository, then clone it to
+have a working directory.&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; # you're on your local machine
+ ssh-add ~/Documents/ec2-user.pem
+ ssh ec2-user@mysite.com
+
+ # you're now on your home directory of your remote AWS instance
+ mkdir ~/mysite.git
+ cd mysite.git
+ git init --bare
+ cd ..
+ git clone mysite.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;Now in your home directory you have both the bare and non-bare repository,
+ respectively &lt;strong&gt;mysite.git&lt;/strong&gt; and &lt;strong&gt;mysite&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add a &lt;strong&gt;post-receive&lt;/strong&gt; hook script to remote bare repository.&lt;/p&gt;
+
+    &lt;p&gt;This script will pull changes from the bare repository to the non-bare repository and
+ finally will build your website. You can edit the &lt;strong&gt;post-receive&lt;/strong&gt; hook with &lt;strong&gt;nano&lt;/strong&gt; editor.&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; # you're on your remote AWS instance
+ cd ~/mysite.git/hooks/
+ touch post-receive
+ nano post-receive
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;Now set the content of &lt;strong&gt;post-receive&lt;/strong&gt; script:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; unset $(git rev-parse --local-env-vars)
+ cd /home/ec2-user/mysite
+ git pull
+ cd src
+ jekyll build
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We’re done with the remote instance, let’s go back to the local machine and
+clone the remote repository.&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; # you're on your local machine
+ cd ~/workspace
+ ssh-add ~/Documents/ec2-user.pem
+ git clone ec2-user@mysite.com:~/mysite.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;If everything goes fine you should see this message:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Warning: You appear to have cloned an empty repository.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a new repository on github, and be sure to &lt;strong&gt;leave unchecked&lt;/strong&gt; the
+“Initialize this repository with a README” flag.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/img/posts/github-create-new-repository.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now we need to add the github repository as remote origin of our local repository:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; # you're on your local machine
+ cd ~/workspace/mysite
+ git remote add github git@github.com:your_github_username/mysite.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;This will create a new origin named “github” for your local repository.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Last step. We will add an extra origin to our local repository, let’s say “all”,
+in order to &lt;strong&gt;push&lt;/strong&gt; changes to both AWS and github repositories at the same time.&lt;br /&gt;
+ To do this, edit the &lt;strong&gt;.git/config&lt;/strong&gt; file with &lt;code class=&quot;highlighter-rouge&quot;&gt;nano&lt;/code&gt; editor and append these
+ lines at the end of file:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; [remote &quot;all&quot;]
+         url = ec2-user@mysite.com:~/mysite.git
+         url = git@github.com:your_github_username/mysite.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We’re done! Create your blog, test it, and when you’re ready you can easily push
+changes to AWS and github with this command:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git push -u all master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If everything’s gone fine, you should see an output like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Counting objects: 27, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (19/19), done.
+Writing objects: 100% (19/19), 92.56 KiB | 0 bytes/s, done.
+Total 19 (delta 13), reused 0 (delta 0)
+. . .
+remote:  15 files changed, 151 insertions(+), 0 deletions(-)
+remote:  create mode 100644 src/assets/img/posts/github-create-new-repository.png
+remote:  create mode 100644 src/assets/img/posts/jekyll-aws.png
+remote: Configuration file: /home/ec2-user/mysite/src/_config.yml
+remote:             Source: .
+remote:        Destination: /var/www/html
+remote:       Generating... done.
+To ec2-user@emysite.com:~mysite.git
+   af7c742..df6bcfc  master -&amp;gt; master
+Branch master set up to track remote branch master from all.
+Counting objects: 27, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (19/19), done.
+Writing objects: 100% (19/19), 92.56 KiB | 0 bytes/s, done.
+Total 19 (delta 13), reused 0 (delta 0)
+To https://github.com/your_github_username/mysite.git
+   af7c742..df6bcfc  master -&amp;gt; master
+Branch master set up to track remote branch master from all.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;As usual, feedback and suggestions are always welcome. Happy blogging everybody!&lt;/p&gt;</content><author><name></name></author><category term="web" /><category term="web development" /><category term="blogging" /><category term="aws" /><category term="amazon aws" /><category term="git" /><category term="github" /><summary type="html">I’ve been using Jekyll a lot lately, I’m totally in love with it, it’s a simple, fast and brilliant Ruby tool to generate static websites and blogs. Well, this post is not really about Jekyll per se, it’s more likely about the way I use it inside my ecosystem. If you want to learn more about Jekyll, I think the official website is a good place to start from.</summary></entry><entry xml:lang="en"><title type="html">How I shutdown my Raspberry Pi</title><link href="http://localhost:4000/linux/2013/05/01/how-i-shutdown-my-raspberrypi.html" rel="alternate" type="text/html" title="How I shutdown my Raspberry Pi" /><published>2013-05-01T00:00:00+02:00</published><updated>2013-05-01T00:00:00+02:00</updated><id>http://localhost:4000/linux/2013/05/01/how-i-shutdown-my-raspberrypi</id><content type="html" xml:base="http://localhost:4000/linux/2013/05/01/how-i-shutdown-my-raspberrypi.html">&lt;p&gt;I have a Raspberry Pi board and some days ago I decided to use it as a sort of print server at home, excited about the idea of being able to plug the RasPi’s power supply then turn the printer on and wirelessly send it documents from my laptop(s).&lt;br /&gt;
+While getting ready to put my hands on it and set up the server, a problem showed up:
+once the print is done, I’d probably want to turn off the printer, turn off the RasPi and possibly unplug power supply; it’s a &lt;em&gt;headless&lt;/em&gt; system, so I would connect over SSH and run the proper command to shutdown the RasPi, but what about my mother?&lt;/p&gt;
+
+&lt;p&gt;I mean, she’s clearly not a UNIX geek.
+Without a power button or a point-and-click graphical interface she wouldn’t be able to properly shutdown the RasPi, so she would probably &lt;strong&gt;unplug the power supply&lt;/strong&gt;, and we all know how bad is this practice.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I had to find a way to communicate with the Raspberry Pi from the &lt;em&gt;real, physycal, tangible,&lt;/em&gt; world.&lt;/p&gt;
+
+&lt;p&gt;I know that for 15$ one can have a USB power button, but that  just didn’t  sound like the kind of solution I was looking for.&lt;/p&gt;
+
+&lt;p&gt;After some thinking I figured it out: &lt;a href=&quot;http://linux.die.net/man/8/udev&quot;&gt;udev&lt;/a&gt;.&lt;br /&gt;
+From Wikipedia:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;udev&lt;/strong&gt; is a device manager for the Linux kernel. Primarily, it manages device nodes in /dev.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Basically, among other features, you can use &lt;em&gt;udev&lt;/em&gt; to &lt;strong&gt;get informations&lt;/strong&gt; about a device when an action is performed (&lt;em&gt;add, remove, change, online, offline&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;That said, here comes the idea: I choose a specific USB device and when a “remove” action is performed on that device RasPi shuts itself down. It fits pretty well as a solution for that &lt;em&gt;real world interaction&lt;/em&gt; problem.&lt;/p&gt;
+
+&lt;p&gt;So, I wrote this simple python tool (very cool name: &lt;strong&gt;unplug2shutdown&lt;/strong&gt;) that basically:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Asks&lt;/strong&gt; you to plug in the device you want to use as a shutdown handler&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Waits&lt;/strong&gt; for that device to be removed and then &lt;strong&gt;run&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;shutdown -h now&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pretty simple. And it works with any kind of USB device as well: a flash/external drive, a SD/MMC adapter (even with no card in it), a WiFi adapter, a &lt;strong&gt;printer&lt;/strong&gt;, and so on.&lt;/p&gt;
+
+&lt;p&gt;Coming back to my print server scenario, I have set the printer itself as a shutdown handler, so when I physycally turn it off, I have just to wait until RasPi’s green lights go out and then I can safely unplug power supply.&lt;br /&gt;
+If I chose a WiFi adapter, I would just unplug it then plug it in back to send the shutdown signal.&lt;/p&gt;
+
+&lt;p&gt;Needless to say, it’s a super quick and dirt tool by now, there may be a zillion edge cases for which it does not work.&lt;/p&gt;
+
+&lt;p&gt;You can download it at github: &lt;a href=&quot;https://github.com/claudiodangelis/unplug2shutdown/archive/master.zip&quot;&gt;zip archive&lt;/a&gt;, or clone the git repository: &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git://github.com/claudiodangelis/unplug2shutdown.git&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Dependencies:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GObject python bindings;&lt;/li&gt;
+  &lt;li&gt;GUdev python bindings;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Debian and derivatives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;sudo apt-get install python-gobject python-gudev&lt;/p&gt;
+
+&lt;p&gt;About the installation, since the tool is at a &lt;strong&gt;very early stage&lt;/strong&gt;, there’s no installer yet so here’s the deal:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;run &lt;strong&gt;as root&lt;/strong&gt;:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; /path/to/unplug2shutdown.py --configure
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;follow the instructions, you’ll need to plug the device that you want to use as a shutdown handler;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;run the tool as root somehow at startup:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/path/to/unplug2shutdown.py &amp;amp;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;unplug the device and look at the magic;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you want to reconfigure it, you have to run &lt;code class=&quot;highlighter-rouge&quot;&gt;./unplug2shutdown.py --configure&lt;/code&gt; again.&lt;/p&gt;
+
+&lt;p&gt;Here’s the repository on GitHub, &lt;a href=&quot;https://github.com/claudiodangelis/unplug2shutdown&quot;&gt;unplug2shutdown&lt;/a&gt;, I’d really like to read your feedback about it, thanks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EDIT&lt;/strong&gt;: Discuss it on &lt;a href=&quot;https://plus.google.com/115859961800127275872/posts/FBq9Vx8y2hq&quot;&gt;Raspberry Pi Google+  Community&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="linux" /><category term="linux" /><category term="raspberry pi" /><category term="rpi" /><category term="raspberrypi" /><summary type="html">I have a Raspberry Pi board and some days ago I decided to use it as a sort of print server at home, excited about the idea of being able to plug the RasPi’s power supply then turn the printer on and wirelessly send it documents from my laptop(s). While getting ready to put my hands on it and set up the server, a problem showed up: once the print is done, I’d probably want to turn off the printer, turn off the RasPi and possibly unplug power supply; it’s a headless system, so I would connect over SSH and run the proper command to shutdown the RasPi, but what about my mother?</summary></entry></feed>
