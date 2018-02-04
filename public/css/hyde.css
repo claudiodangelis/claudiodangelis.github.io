@@ -121,12 +121,14 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    1rem;
+  padding-bottom: 1rem;
 }
 
 @media (min-width: 48em) {
   .content {
+    padding-top:    4rem;
+    padding-bottom: 4rem;
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;

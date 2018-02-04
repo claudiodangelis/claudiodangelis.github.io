@@ -1,3 +1,16 @@
 .post-preview h1 a {
     color: #303030;
 }
+
+.desktop-only {
+    display: none;
+    visibility: hidden;
+}
+
+@media (min-width: 48em) {
+    .desktop-only {
+        display: block;
+        visibility: visible;
+    }
+}
+
