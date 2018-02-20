@@ -14,7 +14,7 @@ Besides **general purpose programming** in Go or JavaScript, my areas of experti
 - Web Scraping
 - Data Mining
 
-I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) and [Banco Del Mutuo Soccorso](http://www.progarchives.com/artist.asp?id=36). And I travel a lot.
+I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) and [Banco Del Mutuo Soccorso](http://www.progarchives.com/artist.asp?id=36), and I travel a lot.
 
 ## Get in touch
 
