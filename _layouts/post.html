@@ -1,6 +1,5 @@
 ---
 layout: default
-comments: true
 ---
 
 <div class="post">
@@ -16,7 +15,6 @@ comments: true
   <a href="https://twitter.com/share" class="twitter-share-button" data-via="daw985">Share on Twitter</a>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </div>
-{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -36,8 +34,6 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
