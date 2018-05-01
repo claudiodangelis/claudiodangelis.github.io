@@ -28,11 +28,13 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 
 **2018**
 
+- Visited Spain
+- Published [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer), a tool to transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal
 - Started working on the Banco project
 
 **2017**
 - Focused 100% on my day job
-- Visited norway
+- Visited Norway
 
 **2016**
 
