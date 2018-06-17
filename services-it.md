@@ -6,7 +6,7 @@ permalink: /services/it
 
 _(Check the [English version](/services))_
 
-Sono uno **sviluppatore software** e **consulente informatico** con più di 10 anni di esperienza. Su Upwork, una popolare piattaforma per freelancers, la mia percentuale di successo è del 100% su progetti da $100 a oltre $100.000 come dimostra [il mio profilo](https://www.upwork.com/freelancers/~01396edb593ffe1468).
+Sono uno **sviluppatore software** e **consulente informatico** con più di 10 anni di esperienza e posso fare un sacco di cose per la vostra azienda. Su Upwork, una popolare piattaforma per freelancers, la mia percentuale di successo è del 100% su progetti da $100 a oltre $100.000 come dimostra [il mio profilo](https://www.upwork.com/freelancers/~01396edb593ffe1468).
 
 Se siete interessati ad uno dei seguenti servizi non esitate a **richiedere un preventivo**, vi risponderò nel più breve tempo possibile.
 
