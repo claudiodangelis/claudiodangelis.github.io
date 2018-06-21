@@ -21,15 +21,16 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 ## Get in touch
 
 
-- [claudiodangelis[@@@@@]gmail[......]com](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#108;&#97;&#117;&#100;&#105;&#111;&#100;&#97;&#110;&#103;&#101;&#108;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
+- [claudiodangelis[@]gmail[.]com](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#108;&#97;&#117;&#100;&#105;&#111;&#100;&#97;&#110;&#103;&#101;&#108;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
 - [@daw985 on Twitter]()
 - [@claudiodangelis on GitHub](https://github.com/claudiodangelis)
 - [/in/claudiodangelis on LinkedIn](https://linkedin.com/in/claudiodangelis)
+- [@claudiodangelis on Telegram](https://t.me/claudiodangelis)
 
 ## Timeline
 
 **2018**
-
+- Started doing GDPR consultancy, electronic document management and dematerialisation
 - Visited Spain
 - Published [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer), a tool to transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal
 - Started working on the Banco project
