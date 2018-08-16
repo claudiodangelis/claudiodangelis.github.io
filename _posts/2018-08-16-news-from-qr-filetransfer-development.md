@@ -1,10 +1,10 @@
 ---
-title: news from qr-filetransfer development
+title: News from qr-filetransfer development
 layout: post
 category: code
 ---
 
-![Logo](https://raw.githubusercontent.com/claudiodangelis/qr-filetransfer/master/logo.svg)
+<img src="https://raw.githubusercontent.com/claudiodangelis/qr-filetransfer/master/logo.svg?sanitize=true" alt="qr-filetransfer logo"/>
 
 Two important news from [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) development, a project I launched a few months back:
 
