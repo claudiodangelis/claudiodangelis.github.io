@@ -40,9 +40,9 @@ Check out the rules to claim one: [rules of openlogos](https://github.com/arasat
 
 Relevant Github threads:
 
-- Initial PR, now superseded https://github.com/claudiodangelis/qr-filetransfer/pull/8
-- Conversation https://github.com/claudiodangelis/qr-filetransfer/issues/58
-- Final PR https://github.com/claudiodangelis/qr-filetransfer/pull/74
+- Initial PR, now superseded [https://github.com/claudiodangelis/qr-filetransfer/pull/8](https://github.com/claudiodangelis/qr-filetransfer/pull/8)
+- Conversation [https://github.com/claudiodangelis/qr-filetransfer/issues/58](https://github.com/claudiodangelis/qr-filetransfer/issues/58)
+- Final PR [https://github.com/claudiodangelis/qr-filetransfer/pull/74](https://github.com/claudiodangelis/qr-filetransfer/pull/74)
 
 
 Thanks again to the amazing Github community!
