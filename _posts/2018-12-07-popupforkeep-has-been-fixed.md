@@ -15,7 +15,7 @@ Everything should be working correctly now as per version **0.10.0** which shoul
 Thanks again to everyone that reached out to me to make me aware of the issue. As a reminder, here's how you can reach out to me for support or feature requests:
 
 - Github project: [popup-for-keep](https://github.com/claudiodangelis/popup-for-keep)
-- Telegram channel: [@popupforkeep](https://t.me/@popupforkeep)
+- Telegram channel: [@popupforkeep](https://t.me/popupforkeep)
 - My email: [claudiodangelis@gmail.com](mailto:claudiodangelis@gmail.com)
 - My Twitter handle: [@daw985](https://twitter.com/daw985)
 
