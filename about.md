@@ -28,6 +28,8 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 - [@claudiodangelis on Telegram](https://t.me/claudiodangelis)
 
 ## Timeline
+**2019**
+- Started doing DevOps for my day job
 
 **2018**
 - Built [i3-timer](https://github.com/claudiodangelis/i3-timer), a simple timer for i3 window manager
