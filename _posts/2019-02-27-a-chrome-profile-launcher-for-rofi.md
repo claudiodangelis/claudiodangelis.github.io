@@ -11,6 +11,11 @@ _**What is Rofi?** [Rofi](https://github.com/DaveDavenport/rofi) is a powerful w
 
 It only requires `bash` and `python`.
 
+## Installation
+
+See Github repository: [claudiodangelis/rofi-chrome-profile-launcher](https://github.com/claudiodangelis/rofi-chrome-profile-launcher)
+
+
 ```sh
 rofi -modi 'Chrome Profile':/path/to/rofi-chrome-profile-launcher.sh -show 'Chrome Profile'
 ```
