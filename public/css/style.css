@@ -2,6 +2,11 @@
     color: #303030;
 }
 
+.post-preview {
+    padding-bottom: 3px;
+    border-bottom: 1px solid #303030;
+}
+
 .desktop-only {
     display: none;
     visibility: hidden;
