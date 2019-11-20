@@ -22,7 +22,7 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 
 
 - [claudiodangelis[@]gmail[.]com](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#108;&#97;&#117;&#100;&#105;&#111;&#100;&#97;&#110;&#103;&#101;&#108;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
-- [@daw985 on Twitter]()
+- [@daw985 on Twitter](https://twitter.com/daw985)
 - [@claudiodangelis on GitHub](https://github.com/claudiodangelis)
 - [/in/claudiodangelis on LinkedIn](https://linkedin.com/in/claudiodangelis)
 - [@claudiodangelis on Telegram](https://t.me/claudiodangelis)
