@@ -31,29 +31,22 @@ Send a file!
 qrcp /path/to/file
 ```
 
-![screenshot](https://raw.githubusercontent.com/claudiodangelis/qr-filetransfer/qrcp/demo.gif)
+![screenshot](https://raw.githubusercontent.com/claudiodangelis/qrcp/master/demo.gif)
 
-3. Scan the QR code with your mobile
-
-4. Download the file to your mobile
-
+Scan the QR code with your mobile, then transfer the file to your mobile.
 
 
 It also works the other way around, if you want to transfer files from your mobile to your desktop.
 
-![screenshot](https://raw.githubusercontent.com/claudiodangelis/qr-filetransfer/qrcp/mobile-demo.gif)
+![screenshot](https://raw.githubusercontent.com/claudiodangelis/qrcp/master/mobile-demo.gif)
 
-1. Use the `receive` command
+Use the `receive` command
 
 ```sh
 qrcp receive 
 ```
 
-2. Scan the URL, it brings you to an upload page
-
-3. Choose the files you want to transfer
-
-4. Upload the files to your desktop
+Scan the URL, it brings you to an upload page, choose the files you want to transfer, then upload the files to your desktop.
 
 
 
