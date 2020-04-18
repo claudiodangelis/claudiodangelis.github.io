@@ -13,6 +13,7 @@ Besides **general purpose programming** in Go or JavaScript, my areas of experti
 - Tasks Automation
 - Web Scraping
 - Data Mining
+- DevOps
 
 Check my [Services](/services) page for more details about what I can do as my day job and what I could do for your company.
 
@@ -28,6 +29,10 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 - [@claudiodangelis on Telegram](https://t.me/claudiodangelis)
 
 ## Timeline
+**2020**
+- Published [qrcp](https://github.com/claudiodangelis/qrcp), a refactoring of qr-filetransfer, a tool to transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal
+- Published [Banco](https://github.com/claudiodangelis/banco), a project management tool for the command line
+
 **2019**
 - Started doing DevOps for my day job
 - Visited Sweden, Northern Ireland
