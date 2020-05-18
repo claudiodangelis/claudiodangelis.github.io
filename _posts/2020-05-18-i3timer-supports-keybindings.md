@@ -7,7 +7,7 @@ category: projects
 
 I've just pushed an update to [i3-timer](https://github.com/claudiodangelis/i3-timer), a simple timer for the i3 window manager's status bar built for i3blocks, that adds the support to key binding. You can now easily start and stop the timer from keyboard shortcuts.
 
-[!Screenshot](https://raw.githubusercontent.com/claudiodangelis/i3-timer/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/claudiodangelis/i3-timer/master/screenshot.png)
 
 <!--more-->
 
