@@ -1,6 +1,6 @@
 ---
 layout: post
-title: i3timer now supports key bindings
+title: i3-timer now supports key bindings
 lang: en
 category: projects
 ---
