@@ -29,6 +29,10 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 - [@claudiodangelis on Telegram](https://t.me/claudiodangelis)
 
 ## Timeline
+**2021**
+- Visited Paris
+- Took a sabbatical from work to start traveling again  
+
 **2020**
 - Published [qrcp](https://github.com/claudiodangelis/qrcp), a refactoring of qr-filetransfer, a tool to transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal
 - Published [Banco](https://github.com/claudiodangelis/banco), a project management tool for the command line
