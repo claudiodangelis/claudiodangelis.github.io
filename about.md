@@ -29,6 +29,9 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 - [@claudiodangelis on Telegram](https://t.me/claudiodangelis)
 
 ## Timeline
+**2022**
+- Moved to Paris
+
 **2021**
 - Visited Paris
 - Took a sabbatical from work to start traveling again  
