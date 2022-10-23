@@ -15,8 +15,6 @@ Besides **general purpose programming** in Go or JavaScript, my areas of experti
 - Data Mining
 - DevOps
 
-Check my [Services](/services) page for more details about what I can do as my day job and what I could do for your company.
-
 I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) and [Banco Del Mutuo Soccorso](http://www.progarchives.com/artist.asp?id=36), and I travel a lot.
 
 ## Get in touch
@@ -30,11 +28,12 @@ I'm a big fan of [Frank Zappa](http://wiki.killuglyradio.com/wiki/Frank_Zappa) a
 
 ## Timeline
 **2022**
+- Started working as Senior Site Reliability Engineer as my day job
 - Moved to Paris
 
 **2021**
 - Visited Paris
-- Took a sabbatical from work to start traveling again  
+- Took a sabbatical from work to start traveling again
 
 **2020**
 - Published [qrcp](https://github.com/claudiodangelis/qrcp), a refactoring of qr-filetransfer, a tool to transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal
